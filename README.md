@@ -16,7 +16,7 @@ Project Name: project_name
 
 * Initial Setup
   * Database creation
-      ```docker-compose run web rails db:create && rails db:migrate``
+      ```docker-compose run web rails db:create && rails db:migrate```
 
 * Launch
     ```docker-compose up```
